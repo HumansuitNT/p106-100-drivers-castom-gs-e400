@@ -43,12 +43,21 @@ Get-FileHash .\Nvidia_geforce_GTX1060.rar -Algorithm SHA256
 
 ## Ключевые слова
 
-P106-100, P106 100, P106100, NVIDIA P106-100, драйверы P106-100,
-GeForce GTX 1060, GTX1060, GTX 1060 drivers, Nvidia GeForce GTX 1060,
-Castom GS-E400, Castom GS E400, GS-E400, ноутбук Castom,
-драйверы нвидиа, драйвера nvidia, nvidia drivers, GP106,
-майнинговая карта как игровая, mining card as gaming GPU,
-драйверы для майнинговых карт, nvidia geforce драйвера скачать
+### Русские
+драйверы P106-100, драйверы нвидиа, драйвера nvidia, драйверы nvidia geforce,
+драйверы для ноутбука Castom GS-E400, драйверы для майнинговых карт,
+майнинговая карта как игровая, скачать драйверы nvidia, драйверы geforce gtx 1060
+
+### English / Translit
+Castom GS-E400 drivers download, Castom GS-E400 nvidia driver,
+GS-E400 drivers, P106-100 drivers, P106-100 nvidia driver,
+P106-100 GTX 1060 modded drivers, Nvidia GeForce GTX 1060 drivers,
+GTX1060 drivers download, GP106 drivers, nvidia geforce drivers,
+mining card as gaming GPU, P106-100 driver windows 10 / 11
+
+### Модели и артикулы
+P106-100, P106 100, P106100, GeForce GTX 1060, GTX1060, GTX 1060,
+Castom GS-E400, Castom GS E400, GS-E400, ноутбук Castom, GP106
 
 ---
 
